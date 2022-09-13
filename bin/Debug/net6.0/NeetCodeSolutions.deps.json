@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NeetCodeSolutions/1.0.0": {
+        "runtime": {
+          "NeetCodeSolutions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NeetCodeSolutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

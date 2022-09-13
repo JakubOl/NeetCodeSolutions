@@ -1,0 +1,15 @@
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\NeetCodeSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\NeetCodeSolutions.AssemblyInfoInputs.cache
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\NeetCodeSolutions.AssemblyInfo.cs
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\NeetCodeSolutions.csproj.CoreCompileInputs.cache
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\bin\Debug\net6.0\NeetCodeSolutions.exe
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\bin\Debug\net6.0\NeetCodeSolutions.deps.json
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\bin\Debug\net6.0\NeetCodeSolutions.runtimeconfig.json
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\bin\Debug\net6.0\NeetCodeSolutions.dll
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\bin\Debug\net6.0\NeetCodeSolutions.pdb
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\NeetCodeSolutions.dll
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\ref\NeetCodeSolutions.dll
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\NeetCodeSolutions.pdb
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\NeetCodeSolutions.genruntimeconfig.cache
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\NeetCodeSolutions.csproj.AssemblyReference.cache
+C:\Users\JOlbrycht\source\repos\WPF\NeetCodeSolutions\obj\Debug\net6.0\refint\NeetCodeSolutions.dll
