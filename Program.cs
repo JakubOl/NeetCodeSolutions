@@ -1,4 +1,5 @@
 ﻿using NeetCodeSolutions;
+using NeetCodeSolutions.Solutions;
 using System;
 
 namespace NeetCode
@@ -121,6 +122,13 @@ namespace NeetCode
             // 25
             var minimumWindowSubstring = MinimumWindowSubstringSolution.MinWindow("ADOBECODEBANC", "ABC");
             Console.WriteLine(minimumWindowSubstring);
+
+            // 26
+            var twoSumII = TwoSumIISolution.TwoSum(new[] { 2, 7, 11, 15 }, 9);
+            foreach(var num in twoSumII)
+            {
+                Console.Write(num+",");
+            }
         }
     }
 }
