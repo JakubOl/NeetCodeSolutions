@@ -129,6 +129,9 @@ namespace NeetCode
             {
                 Console.Write(num+",");
             }
+
+            // 27
+            var permutationInString = PermutationInStringSolution.CheckInclusion("ab", "eidbaooo");
         }
     }
 }
